@@ -1,0 +1,76 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "e:/programming-dir/dev/source/reactor-arm-ros-firmware/include",
+                "e:/programming-dir/dev/source/reactor-arm-ros-firmware/src",
+                "C:/Users/arcxo/.platformio/packages/framework-arduino-avr-mightycore/libraries/Servo/src",
+                "e:/programming-dir/dev/source/reactor-arm-ros-firmware/lib/Motors2",
+                "e:/programming-dir/dev/source/reactor-arm-ros-firmware/lib/HServo",
+                "e:/programming-dir/dev/source/reactor-arm-ros-firmware/lib/EncodersAB",
+                "e:/programming-dir/dev/source/reactor-arm-ros-firmware/lib/Bioloid",
+                "C:/Users/arcxo/.platformio/packages/framework-arduino-avr-mightycore/cores/MightyCore",
+                "C:/Users/arcxo/.platformio/packages/framework-arduino-avr-mightycore/variants/standard",
+                "C:/Users/arcxo/.platformio/packages/framework-arduino-avr-mightycore/libraries/AVR_examples/src",
+                "C:/Users/arcxo/.platformio/packages/framework-arduino-avr-mightycore/libraries/EEPROM/src",
+                "C:/Users/arcxo/.platformio/packages/framework-arduino-avr-mightycore/libraries/Optiboot_flasher/src",
+                "C:/Users/arcxo/.platformio/packages/framework-arduino-avr-mightycore/libraries/SD/src",
+                "C:/Users/arcxo/.platformio/packages/framework-arduino-avr-mightycore/libraries/SPI/src",
+                "C:/Users/arcxo/.platformio/packages/framework-arduino-avr-mightycore/libraries/SPI1/src",
+                "C:/Users/arcxo/.platformio/packages/framework-arduino-avr-mightycore/libraries/SoftwareSerial/src",
+                "C:/Users/arcxo/.platformio/packages/framework-arduino-avr-mightycore/libraries/Timer/src",
+                "C:/Users/arcxo/.platformio/packages/framework-arduino-avr-mightycore/libraries/Wire/src",
+                "C:/Users/arcxo/.platformio/packages/framework-arduino-avr-mightycore/libraries/Wire1/src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "e:/programming-dir/dev/source/reactor-arm-ros-firmware/include",
+                    "e:/programming-dir/dev/source/reactor-arm-ros-firmware/src",
+                    "C:/Users/arcxo/.platformio/packages/framework-arduino-avr-mightycore/libraries/Servo/src",
+                    "e:/programming-dir/dev/source/reactor-arm-ros-firmware/lib/Motors2",
+                    "e:/programming-dir/dev/source/reactor-arm-ros-firmware/lib/HServo",
+                    "e:/programming-dir/dev/source/reactor-arm-ros-firmware/lib/EncodersAB",
+                    "e:/programming-dir/dev/source/reactor-arm-ros-firmware/lib/Bioloid",
+                    "C:/Users/arcxo/.platformio/packages/framework-arduino-avr-mightycore/cores/MightyCore",
+                    "C:/Users/arcxo/.platformio/packages/framework-arduino-avr-mightycore/variants/standard",
+                    "C:/Users/arcxo/.platformio/packages/framework-arduino-avr-mightycore/libraries/AVR_examples/src",
+                    "C:/Users/arcxo/.platformio/packages/framework-arduino-avr-mightycore/libraries/EEPROM/src",
+                    "C:/Users/arcxo/.platformio/packages/framework-arduino-avr-mightycore/libraries/Optiboot_flasher/src",
+                    "C:/Users/arcxo/.platformio/packages/framework-arduino-avr-mightycore/libraries/SD/src",
+                    "C:/Users/arcxo/.platformio/packages/framework-arduino-avr-mightycore/libraries/SPI/src",
+                    "C:/Users/arcxo/.platformio/packages/framework-arduino-avr-mightycore/libraries/SPI1/src",
+                    "C:/Users/arcxo/.platformio/packages/framework-arduino-avr-mightycore/libraries/SoftwareSerial/src",
+                    "C:/Users/arcxo/.platformio/packages/framework-arduino-avr-mightycore/libraries/Timer/src",
+                    "C:/Users/arcxo/.platformio/packages/framework-arduino-avr-mightycore/libraries/Wire/src",
+                    "C:/Users/arcxo/.platformio/packages/framework-arduino-avr-mightycore/libraries/Wire1/src",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=60107",
+                "ARDUINO_AVR_ATmega644",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "__AVR_ATmega644P__",
+                ""
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "compilerPath": "C:/Users/arcxo/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
+            "compilerArgs": [
+                "-mmcu=atmega644p",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
